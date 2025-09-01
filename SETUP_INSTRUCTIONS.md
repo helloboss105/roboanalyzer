@@ -21,6 +21,8 @@ Server running on http://localhost:5000
 cd interface
 npm run dev
 ```
+only one command to start frontend and backend
+
 
 ### 3. Test Real-time Chat
 1. Open two different browsers or incognito windows
