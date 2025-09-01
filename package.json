@@ -1,5 +1,27 @@
 {
   "dependencies": {
-    "lucide-react": "^0.534.0"
-  }
+    "lucide-react": "^0.534.0",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1"
+  },
+  "name": "robo_workspace2",
+  "version": "1.0.0",
+  "main": "test_backend.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tnmy4069/Robo_Workspace2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tnmy4069/Robo_Workspace2/issues"
+  },
+  "homepage": "https://github.com/Tnmy4069/Robo_Workspace2#readme",
+  "description": ""
 }
